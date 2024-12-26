@@ -53,4 +53,4 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ![UP COunter tt](https://github.com/user-attachments/assets/a9330d87-ae05-42c7-a635-a7f49c91101a)
 
 ### **RESULTS**
-THE IMPLEMENTATION OF SYNCHRONOUS-UP-COUNTER IS TESTED AND VERIFIED.
+The implementation of 4 bit synchronous up counter and their functionality is implemented and verified using Verilog programming successfully.
